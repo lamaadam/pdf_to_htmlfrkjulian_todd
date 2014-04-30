@@ -159,33 +159,6 @@ jscript = """
 """
 
 hidden = -1
-print '<H345>18</H345>'
-pdfurl = "http://lc.zoocdn.com/47e3a4bbbc6bc690a37d925f9e005f48d00599fe.pdf"
-Main(pdfurl, hidden)
-print '<H345>19</H345>'
-pdfurl = "http://lc.zoocdn.com/9b14bcff364e66d0f6368d2b6463bf0973eac144.pdf"
-Main(pdfurl, hidden)
-print '<H345>20</H345>'
-pdfurl = "http://lc.zoocdn.com/48d182edfe37e47e4639e5b2705221fe9019a33b.pdf"
-Main(pdfurl, hidden)
-print '<H345>21</H345>'
-pdfurl = "http://lc.zoocdn.com/6d076d2e8a9fbacd74d78573a9f04eeee225eead.pdf"
-Main(pdfurl, hidden)
-print '<H345>22</H345>'
-pdfurl = "http://lc.zoocdn.com/0b6754e314c6daa61ada3321cad1d392ba1d7238.pdf"
-Main(pdfurl, hidden)
-print '<H345>23</H345>'
-pdfurl = "http://lc.zoocdn.com/128b78a98af8a9bf917da548edcbba6e63de6d20.pdf"
-Main(pdfurl, hidden)
-print '<H345>24</H345>'
-pdfurl = "http://lc.zoocdn.com/df9d57f5c1101bb03d6dd1e97daaebba06729661.pdf"
-Main(pdfurl, hidden)
-print '<H345>25</H345>'
-pdfurl = "http://lc.zoocdn.com/303666f2f5e4112db9963fe35dc8b57dca2fe7f4.pdf"
-Main(pdfurl, hidden)
-print '<H345>26</H345>'
-pdfurl = "http://lc.zoocdn.com/b03cc249af16cb14d78cc9746ab2d6e64982527a.pdf"
-Main(pdfurl, hidden)
 print '<H345>27</H345>'
 pdfurl = "http://www.your-move.co.uk/propimg/413/scans/EPC1_1809811_1.pdf"
 Main(pdfurl, hidden)
