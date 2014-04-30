@@ -5,6 +5,9 @@ import urllib, urllib2, urlparse
 import lxml.etree, lxml.html
 import re, os
 
+class Error(Exception): pass
+
+class InputError(Error):pass
 
 def Pageblock(page, index):
     ''' 
@@ -162,6 +165,7 @@ hidden = -1
 print '<H345>27</H345>'
 pdfurl = "http://www.your-move.co.uk/propimg/413/scans/EPC1_1809811_1.pdf"
 try: Main(pdfurl, hidden)
+except: print 'spatne'
 print '<H345>28</H345>'
 pdfurl = "http://lc.zoocdn.com/bb1f6912118b30bd0dc2f22efbf98f38214269b4.pdf"
 Main(pdfurl, hidden)
