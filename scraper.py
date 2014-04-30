@@ -158,19 +158,7 @@ jscript = """
     });
 """
 
-
-    
-# Check for a PDF URL and hidden-checkbox entered by the user: if none, use our default values:
-urlquery = os.getenv('URLQUERY')
-
-pdfurl = "https://dl.dropbox.com/u/268010/Kina%20Datterselskabsliste%202012.pdf"
+pdfurl = "http://lc.zoocdn.com/0099a4b097cb377f7acab9678466833f45917f35.pdf"
 hidden = -1
-
-if urlquery:
-     querydata = urlparse.parse_qsl(urlquery);
-     for pair in querydata:
-        if pair[0] == "url":
-            pdfurl = urllib.unquote(pair[1])
-        if pair[0] == "hidden":
-            hidden = 1
+Main(pdfurl, hidden)
 Main(pdfurl, hidden)
