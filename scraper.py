@@ -159,62 +159,6 @@ jscript = """
 """
 
 hidden = -1
-pdfurl = "http://lc.zoocdn.com/35871bb28b455dc0874dc228a011acd647c8da3d.pdf"
-Main(pdfurl, hidden)
-print '<H345>0</H345>'
-pdfurl = "http://lc.zoocdn.com/886fe6418c86a38ddec441f52ce43ca47df41e4f.pdf"
-Main(pdfurl, hidden)
-print '<H345>1</H345>'
-pdfurl = "http://lc.zoocdn.com/f50fb6691083b4d0ee0ffb71459894334d6f318e.pdf"
-Main(pdfurl, hidden)
-print '<H345>2</H345>'
-pdfurl = "http://lc.zoocdn.com/3a83d9a3acbc1c06e5f9452ad7740c4a79408fb1.pdf"
-Main(pdfurl, hidden)
-print '<H345>3</H345>'
-pdfurl = "http://lc.zoocdn.com/8b18950754a3ffa6c651ac2ed040cf536499d66d.pdf"
-Main(pdfurl, hidden)
-print '<H345>4</H345>'
-pdfurl = "http://lc.zoocdn.com/90ea4b94415b2a167b04496e78a9e3a350b456b0.pdf"
-Main(pdfurl, hidden)
-print '<H345>5</H345>'
-pdfurl = "http://lc.zoocdn.com/22b4fc0f43d689ee01760a94b404e04e5c6b1c91.pdf"
-Main(pdfurl, hidden)
-print '<H345>6</H345>'
-pdfurl = "http://lc.zoocdn.com/cbd4089305e8baeaaf12ea25e5be0b0f1718f5b5.pdf"
-Main(pdfurl, hidden)
-print '<H345>7</H345>'
-pdfurl = "http://lc.zoocdn.com/3dccfa24c85991166d1958cf83dac09b4508723f.pdf"
-Main(pdfurl, hidden)
-print '<H345>8</H345>'
-pdfurl = "http://lc.zoocdn.com/0d4168f14202e3b08ce4ad41f0c9546d2e22dde4.pdf"
-Main(pdfurl, hidden)
-print '<H345>9</H345>'
-pdfurl = "http://lc.zoocdn.com/90c674d5a2768c8e441cc71d14321d096bd257a2.pdf"
-Main(pdfurl, hidden)
-print '<H345>10</H345>'
-pdfurl = "http://lc.zoocdn.com/0dbdfc28b9f119dd4110de3f4c27e58c5bee55a7.pdf"
-Main(pdfurl, hidden)
-print '<H345>11</H345>'
-pdfurl = "http://lc.zoocdn.com/c014913be593d596d09e2686f611698c70f33ed2.pdf"
-Main(pdfurl, hidden)
-print '<H345>12</H345>'
-pdfurl = "http://lc.zoocdn.com/7420c6a99d5b51265b604882dc8174a67c2f3d2f.pdf"
-Main(pdfurl, hidden)
-print '<H345>13</H345>'
-pdfurl = "http://lc.zoocdn.com/4d1f17aebf35e01799660c4141de65166068a281.pdf"
-Main(pdfurl, hidden)
-print '<H345>14</H345>'
-pdfurl = "http://lc.zoocdn.com/84f1e6035432e0d84ee4db1476e80c78b4cc7aef.pdf"
-Main(pdfurl, hidden)
-print '<H345>15</H345>'
-pdfurl = "http://lc.zoocdn.com/a47d677817a89aa8010245d6c6fdbb8a849e4757.pdf"
-Main(pdfurl, hidden)
-print '<H345>16</H345>'
-pdfurl = "http://lc.zoocdn.com/8e2b0088649fa006b353d85bd2fd14967eb862e3.pdf"
-Main(pdfurl, hidden)
-print '<H345>17</H345>'
-pdfurl = "http://lc.zoocdn.com/2e6cd235b5cdcd9d0f073002e4f016b3ff46afce.pdf"
-Main(pdfurl, hidden)
 print '<H345>18</H345>'
 pdfurl = "http://lc.zoocdn.com/47e3a4bbbc6bc690a37d925f9e005f48d00599fe.pdf"
 Main(pdfurl, hidden)
