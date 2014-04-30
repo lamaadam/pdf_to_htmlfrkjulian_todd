@@ -161,7 +161,7 @@ jscript = """
 hidden = -1
 print '<H345>27</H345>'
 pdfurl = "http://www.your-move.co.uk/propimg/413/scans/EPC1_1809811_1.pdf"
-Main(pdfurl, hidden)
+try: Main(pdfurl, hidden)
 print '<H345>28</H345>'
 pdfurl = "http://lc.zoocdn.com/bb1f6912118b30bd0dc2f22efbf98f38214269b4.pdf"
 Main(pdfurl, hidden)
